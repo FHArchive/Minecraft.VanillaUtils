@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:decorations/glass_white_bricks"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/glass_white_brick_slab",
+    "count": 6
+  }
+}

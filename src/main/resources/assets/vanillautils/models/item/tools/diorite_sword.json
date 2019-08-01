@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vanillautils:item/tools/diorite_sword"
+  }
+}

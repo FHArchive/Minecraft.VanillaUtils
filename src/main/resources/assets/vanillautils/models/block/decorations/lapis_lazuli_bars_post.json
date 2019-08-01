@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "vanillautils:block/decorations/lapis_lazuli_bars_top",
+    "pane": "vanillautils:block/decorations/lapis_lazuli_bars"
+  }
+}

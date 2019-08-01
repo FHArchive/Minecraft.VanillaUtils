@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_axe",
+    "pattern": [
+        "##",
+        "#a",
+        " a"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/glowstone"
+        },
+        "a": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vanillautils:tools/glowstone_axe",
+        "count": 1
+    }
+}

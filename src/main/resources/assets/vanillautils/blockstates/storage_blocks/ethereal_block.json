@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillautils:block/storage_blocks/ethereal_block"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "vanillautils:block/storage_blocks/gold_block",
+    "top": "vanillautils:block/storage_blocks/gold_block",
+    "side": "vanillautils:block/storage_blocks/gold_block"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_block",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "vanillautils:armor/lapis_lazuli_helm",
+    "count": 1
+  }
+}

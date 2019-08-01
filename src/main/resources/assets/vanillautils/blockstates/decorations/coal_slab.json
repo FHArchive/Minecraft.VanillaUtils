@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "vanillautils:block/decorations/coal_slab"},
+    "type=top": { "model": "vanillautils:block/decorations/coal_slab_top" },
+    "type=double": { "model": "vanillautils:block/storage_blocks/coal_block" }
+  }
+}

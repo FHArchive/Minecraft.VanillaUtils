@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "vanillautils:block/decorations/emerald_lamp_on"},
+    "lit=true": { "model": "vanillautils:block/decorations/emerald_lamp" }
+  }
+}

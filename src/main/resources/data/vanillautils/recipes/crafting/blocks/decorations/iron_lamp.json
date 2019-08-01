@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "#a#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/iron"
+    },
+    "a": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/iron_lamp",
+    "count": 1
+  }
+}

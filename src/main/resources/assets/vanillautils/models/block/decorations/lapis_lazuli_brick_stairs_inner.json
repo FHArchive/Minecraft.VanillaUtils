@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/lapis_lazuli_bricks",
+    "top": "vanillautils:block/decorations/lapis_lazuli_bricks",
+    "side": "vanillautils:block/decorations/lapis_lazuli_bricks"
+  }
+}

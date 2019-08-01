@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/charcoal"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/charcoal_bars",
+    "count": 16
+  }
+}

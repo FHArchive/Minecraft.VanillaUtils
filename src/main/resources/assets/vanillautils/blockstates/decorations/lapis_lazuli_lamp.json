@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "vanillautils:block/decorations/lapis_lazuli_lamp_on"},
+    "lit=false": { "model": "vanillautils:block/decorations/lapis_lazuli_lamp" }
+  }
+}

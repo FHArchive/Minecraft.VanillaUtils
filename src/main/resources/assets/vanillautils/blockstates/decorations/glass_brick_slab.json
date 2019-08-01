@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "vanillautils:block/decorations/glass_brick_slab"},
+    "type=top": { "model": "vanillautils:block/decorations/glass_brick_slab_top" },
+    "type=double": { "model": "vanillautils:block/decorations/glass_bricks" }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "vanillautils:block/decorations/granite_bars_top",
+    "pane": "vanillautils:block/decorations/granite_bars"
+  }
+}

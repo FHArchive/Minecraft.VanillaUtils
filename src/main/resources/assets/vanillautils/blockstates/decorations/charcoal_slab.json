@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "vanillautils:block/decorations/charcoal_slab"},
+    "type=top": { "model": "vanillautils:block/decorations/charcoal_slab_top" },
+    "type=double": { "model": "vanillautils:block/storage_blocks/charcoal_block" }
+  }
+}

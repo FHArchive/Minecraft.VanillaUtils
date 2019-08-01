@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "vanillautils:block/storage_blocks/wool_gray_block",
+    "top": "vanillautils:block/storage_blocks/wool_gray_block",
+    "side": "vanillautils:block/storage_blocks/wool_gray_block"
+  }
+}

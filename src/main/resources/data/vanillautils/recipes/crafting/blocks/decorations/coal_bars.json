@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/coal"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/coal_bars",
+    "count": 16
+  }
+}

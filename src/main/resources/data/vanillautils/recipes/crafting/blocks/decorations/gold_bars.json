@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/gold"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/gold_bars",
+    "count": 16
+  }
+}

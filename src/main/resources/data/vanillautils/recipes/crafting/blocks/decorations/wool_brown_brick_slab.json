@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:decorations/wool_brown_bricks"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/wool_brown_brick_slab",
+    "count": 6
+  }
+}

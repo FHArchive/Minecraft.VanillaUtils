@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/glass_yellow_bricks",
+    "top": "vanillautils:block/decorations/glass_yellow_bricks",
+    "side": "vanillautils:block/decorations/glass_yellow_bricks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/diamond_bars",
+    "count": 16
+  }
+}

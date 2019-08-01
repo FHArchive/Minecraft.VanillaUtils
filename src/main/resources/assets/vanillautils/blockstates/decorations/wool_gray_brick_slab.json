@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "vanillautils:block/decorations/wool_gray_brick_slab"},
+    "type=top": { "model": "vanillautils:block/decorations/wool_gray_brick_slab_top" },
+    "type=double": { "model": "vanillautils:block/decorations/wool_gray_bricks" }
+  }
+}

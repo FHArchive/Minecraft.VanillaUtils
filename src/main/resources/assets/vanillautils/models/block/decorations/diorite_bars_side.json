@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "vanillautils:block/decorations/diorite_bars_top",
+    "pane": "vanillautils:block/decorations/diorite_bars"
+  }
+}

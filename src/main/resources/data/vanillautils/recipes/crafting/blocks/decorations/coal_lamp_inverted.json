@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "#a#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/coal"
+    },
+    "a": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/coal_lamp_inverted",
+    "count": 1
+  }
+}

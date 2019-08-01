@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "vanillautils:decoration_block"
+        },
+        {
+            "item": "minecraft:diamond"
+        }
+    ],
+    "result": {
+        "item": "vanillautils:storage_blocks/diamond_block",
+        "count": 1
+    }
+}

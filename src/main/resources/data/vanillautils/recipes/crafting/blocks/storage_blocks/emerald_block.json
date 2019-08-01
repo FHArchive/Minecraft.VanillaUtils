@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "vanillautils:decoration_block"
+        },
+        {
+            "item": "minecraft:emerald"
+        }
+    ],
+    "result": {
+        "item": "vanillautils:storage_blocks/emerald_block",
+        "count": 1
+    }
+}

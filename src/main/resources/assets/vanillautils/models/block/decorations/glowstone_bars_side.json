@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "vanillautils:block/decorations/glowstone_bars_top",
+    "pane": "vanillautils:block/decorations/glowstone_bars"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/gold_door_bottom",
+    "top": "vanillautils:block/decorations/gold_door_top"
+  }
+}

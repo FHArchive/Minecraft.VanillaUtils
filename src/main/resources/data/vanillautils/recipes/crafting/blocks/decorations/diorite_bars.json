@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/diorite"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/diorite_bars",
+    "count": 16
+  }
+}

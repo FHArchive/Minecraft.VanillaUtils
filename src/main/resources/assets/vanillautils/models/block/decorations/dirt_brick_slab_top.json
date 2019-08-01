@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/dirt_bricks",
+    "top": "vanillautils:block/decorations/dirt_bricks",
+    "side": "vanillautils:block/decorations/dirt_bricks"
+  }
+}

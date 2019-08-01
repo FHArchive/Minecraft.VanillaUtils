@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_shears",
+    "pattern": [
+        " #",
+        "# "
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/lapis_lazuli"
+        }
+
+    },
+    "result": {
+        "item": "vanillautils:tools/lapis_lazuli_shears",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "vanillautils:block/decorations/gold_lamp_on"},
+    "lit=false": { "model": "vanillautils:block/decorations/gold_lamp" }
+  }
+}

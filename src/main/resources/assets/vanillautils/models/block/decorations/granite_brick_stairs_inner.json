@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/granite_bricks",
+    "top": "vanillautils:block/decorations/granite_bricks",
+    "side": "vanillautils:block/decorations/granite_bricks"
+  }
+}

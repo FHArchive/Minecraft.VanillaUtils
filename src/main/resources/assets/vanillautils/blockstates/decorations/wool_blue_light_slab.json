@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "vanillautils:block/decorations/wool_blue_light_slab"},
+    "type=top": { "model": "vanillautils:block/decorations/wool_blue_light_slab_top" },
+    "type=double": { "model": "vanillautils:block/storage_blocks/wool_blue_light_block" }
+  }
+}

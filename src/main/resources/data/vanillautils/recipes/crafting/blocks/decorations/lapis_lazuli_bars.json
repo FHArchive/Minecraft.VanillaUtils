@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/lapis_lazuli_bars",
+    "count": 16
+  }
+}

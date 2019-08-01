@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "vanillautils:decoration_block"
+        },
+        {
+            "item": "minecraft:charcoal"
+        }
+    ],
+    "result": {
+        "item": "vanillautils:storage_blocks/charcoal_block",
+        "count": 1
+    }
+}

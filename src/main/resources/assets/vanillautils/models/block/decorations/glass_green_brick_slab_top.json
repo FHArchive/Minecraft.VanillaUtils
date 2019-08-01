@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/glass_green_bricks",
+    "top": "vanillautils:block/decorations/glass_green_bricks",
+    "side": "vanillautils:block/decorations/glass_green_bricks"
+  }
+}

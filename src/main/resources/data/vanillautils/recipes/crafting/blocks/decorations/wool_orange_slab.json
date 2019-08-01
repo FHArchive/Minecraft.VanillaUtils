@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:storage_blocks/wool_orange"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/wool_orange_slab",
+    "count": 6
+  }
+}

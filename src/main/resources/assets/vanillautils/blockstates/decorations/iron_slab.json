@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "vanillautils:block/decorations/iron_slab"},
+    "type=top": { "model": "vanillautils:block/decorations/iron_slab_top" },
+    "type=double": { "model": "vanillautils:block/storage_blocks/iron_block" }
+  }
+}

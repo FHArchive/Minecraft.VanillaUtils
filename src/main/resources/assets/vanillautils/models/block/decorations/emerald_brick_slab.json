@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/emerald_bricks",
+    "top": "vanillautils:block/decorations/emerald_bricks",
+    "side": "vanillautils:block/decorations/emerald_bricks"
+  }
+}

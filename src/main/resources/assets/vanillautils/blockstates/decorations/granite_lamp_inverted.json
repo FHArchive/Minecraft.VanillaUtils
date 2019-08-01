@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "vanillautils:block/decorations/granite_lamp_on"},
+    "lit=true": { "model": "vanillautils:block/decorations/granite_lamp" }
+  }
+}

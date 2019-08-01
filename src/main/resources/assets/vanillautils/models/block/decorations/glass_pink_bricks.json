@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vanillautils:block/decorations/glass_pink_bricks"
+  }
+}

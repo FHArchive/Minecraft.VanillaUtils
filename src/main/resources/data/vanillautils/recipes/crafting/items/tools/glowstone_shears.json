@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_shears",
+    "pattern": [
+        " #",
+        "# "
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/glowstone"
+        }
+
+    },
+    "result": {
+        "item": "vanillautils:tools/glowstone_shears",
+        "count": 1
+    }
+}

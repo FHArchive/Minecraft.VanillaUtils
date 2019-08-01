@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "vanillautils:block/decorations/lapis_lazuli_door_bottom",
+    "top": "vanillautils:block/decorations/lapis_lazuli_door_top"
+  }
+}

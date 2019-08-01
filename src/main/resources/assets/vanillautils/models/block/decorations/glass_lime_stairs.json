@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "vanillautils:block/storage_blocks/glass_lime_block",
+    "top": "vanillautils:block/storage_blocks/glass_lime_block",
+    "side": "vanillautils:block/storage_blocks/glass_lime_block"
+  }
+}

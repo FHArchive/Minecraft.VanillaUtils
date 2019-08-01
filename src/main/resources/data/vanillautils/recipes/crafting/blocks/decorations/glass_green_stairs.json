@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:storage_blocks/glass_green"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/glass_green_stairs",
+    "count": 4
+  }
+}

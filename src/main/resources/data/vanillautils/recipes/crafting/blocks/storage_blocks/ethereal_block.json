@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_block",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/ethereal"
+        }
+    },
+    "result": {
+        "item": "vanillautils:storage_blocks/ethereal_block",
+        "count": 1
+    }
+}

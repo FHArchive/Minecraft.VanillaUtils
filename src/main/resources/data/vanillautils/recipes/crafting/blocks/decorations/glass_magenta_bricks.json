@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:storage_blocks/glass_magenta"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/glass_magenta_bricks",
+    "count": 4
+  }
+}

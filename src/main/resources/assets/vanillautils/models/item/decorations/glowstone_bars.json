@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vanillautils:block/decorations/glowstone_bars"
+  }
+}

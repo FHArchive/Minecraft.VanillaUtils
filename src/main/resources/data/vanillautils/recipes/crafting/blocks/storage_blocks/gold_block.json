@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "vanillautils:decoration_block"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    ],
+    "result": {
+        "item": "vanillautils:storage_blocks/gold_block",
+        "count": 1
+    }
+}

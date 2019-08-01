@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_decoration_block",
+  "pattern": [
+    "###",
+    "#a#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sticks"
+    },
+    "a": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "vanillautils:decorations/charcoal_bars",
+    "count": 16
+  }
+}
