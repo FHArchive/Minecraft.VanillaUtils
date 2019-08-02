@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/glass_pink_brick_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/glass_pink_bricks",
+        "count": 1
+    }
+}

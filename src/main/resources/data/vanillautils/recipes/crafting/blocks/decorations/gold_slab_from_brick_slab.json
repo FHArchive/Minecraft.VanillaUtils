@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/gold_brick_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/gold_slab",
+        "count": 1
+    }
+}

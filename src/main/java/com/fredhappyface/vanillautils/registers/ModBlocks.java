@@ -1,6 +1,7 @@
 package com.fredhappyface.vanillautils.registers;
 
 import com.fredhappyface.vanillautils.CreativeTabGroups;
+import com.fredhappyface.vanillautils.Enum.Ethereal;
 import com.fredhappyface.vanillautils.Enum.ModDecorBlock;
 import com.fredhappyface.vanillautils.Enum.ModInclLamp;
 import com.fredhappyface.vanillautils.Enum.ModInclTools;
@@ -87,6 +88,13 @@ public class ModBlocks {
             register(DECORATIONS + block.getName() + "_brick_stairs", block.getBrickStairs(), CreativeTabGroups.ITEM_GROUP_DECORATION);
             register(DECORATIONS + block.getName() + "_slab", block.getSlab(), CreativeTabGroups.ITEM_GROUP_DECORATION);
             register(DECORATIONS + block.getName() + "_stairs", block.getStairs(), CreativeTabGroups.ITEM_GROUP_DECORATION);
+
+
+        }
+
+        for (final Ethereal block : Ethereal.values()) {
+            register("ores/" + block.getName() + "_ore", block.getOreBlock(), CreativeTabGroups.ITEM_GROUP_DECORATION);
+            register("storage_blocks/" + block.getName() + "_block", block.getStorageBlock(), CreativeTabGroups.ITEM_GROUP_DECORATION);
 
 
         }

@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/glowstone_brick_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/glowstone_bricks",
+        "count": 1
+    }
+}

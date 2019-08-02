@@ -1,5 +1,6 @@
 package com.fredhappyface.vanillautils.registers;
 
+import com.fredhappyface.vanillautils.Enum.Ethereal;
 import com.fredhappyface.vanillautils.Enum.ModInclTools;
 import com.fredhappyface.vanillautils.Main;
 import net.minecraft.item.BlockItem;
@@ -47,6 +48,12 @@ public class ModItems {
             register(ARMOUR + block.getName() + "_leggings", block.getLeggings());
             register(ARMOUR + block.getName() + "_boots", block.getBoots());
 
+
+
+        }
+
+        for (final Ethereal block : Ethereal.values()) {
+            register(block.getName(), block.getGemItem());
 
 
         }

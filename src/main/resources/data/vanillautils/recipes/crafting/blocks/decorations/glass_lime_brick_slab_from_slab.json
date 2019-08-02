@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/glass_lime_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/glass_lime_brick_slab",
+        "count": 4
+    }
+}

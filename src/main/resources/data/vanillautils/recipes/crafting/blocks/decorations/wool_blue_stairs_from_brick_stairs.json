@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/wool_blue_brick_stairs"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/wool_blue_stairs",
+        "count": 1
+    }
+}

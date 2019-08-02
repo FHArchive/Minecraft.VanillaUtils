@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_block",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/coal_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:storage_blocks/coal_block",
+        "count": 1
+    }
+}

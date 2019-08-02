@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_block",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/gold_bricks"
+        }
+    },
+    "result": {
+        "item": "vanillautils:storage_blocks/gold_block",
+        "count": 4
+    }
+}

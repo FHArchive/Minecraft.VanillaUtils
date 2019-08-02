@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/dirt_brick_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/dirt_slab",
+        "count": 1
+    }
+}

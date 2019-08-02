@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/glass_magenta_stairs"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/glass_magenta_brick_stairs",
+        "count": 4
+    }
+}

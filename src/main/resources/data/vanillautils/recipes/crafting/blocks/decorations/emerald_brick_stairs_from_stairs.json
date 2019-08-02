@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/emerald_stairs"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/emerald_brick_stairs",
+        "count": 4
+    }
+}

@@ -3,6 +3,17 @@
 
   "block.vanillautils.decoration_block": "Decoration Block",
 
+  "item.vanillautils.ethereal": "Ethereal Dust",
+  "block.vanillautils.ores.ethereal_ore": "Ethereal Ore",
+  "block.vanillautils.storage_blocks.ethereal_block": "Ethereal Block",
+
+  "block.vanillautils.storage_blocks.charcoal_block": "Charcoal Decoration Block",
+  "block.vanillautils.storage_blocks.coal_block": "Coal Decoration Block",
+  "block.vanillautils.storage_blocks.diamond_block": "Diamond Decoration Block",
+  "block.vanillautils.storage_blocks.emerald_block": "Emerald Decoration Block",
+  "block.vanillautils.storage_blocks.gold_block": "Gold Decoration Block",
+  "block.vanillautils.storage_blocks.iron_block": "Iron Decoration Block",
+
   "COMMENT": "ModInclTools",
   "item.vanillautils.tools.granite_pickaxe": "Granite Pickaxe",
   "item.vanillautils.tools.glowstone_pickaxe": "Glowstone Pickaxe",

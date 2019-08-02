@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_decoration_block",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:decorations/wool_gray_light_brick_slab"
+        }
+    },
+    "result": {
+        "item": "vanillautils:decorations/wool_gray_light_bricks",
+        "count": 1
+    }
+}
