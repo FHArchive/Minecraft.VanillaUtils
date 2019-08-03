@@ -2,6 +2,7 @@ package com.fredhappyface.vanillautils.lib.blocks;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.material.Material;
+import net.minecraft.util.BlockRenderLayer;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.MathHelper;
 import net.minecraft.world.IWorldReader;
@@ -40,6 +41,12 @@ public class ModOreBlock extends net.minecraft.block.OreBlock {
     @Override
     public int getHarvestLevel(final BlockState state) {
         return this.harvestLevel;
+    }
+
+
+    @Override
+    public BlockRenderLayer getRenderLayer() {
+        return BlockRenderLayer.TRANSLUCENT;
     }
 
     

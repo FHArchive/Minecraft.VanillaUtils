@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_pickaxe",
+    "pattern": [
+        "###",
+        " a ",
+        " a "
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/granite"
+        },
+        "a": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vanillautils:tools/granite_pickaxe",
+        "count": 1
+    }
+}

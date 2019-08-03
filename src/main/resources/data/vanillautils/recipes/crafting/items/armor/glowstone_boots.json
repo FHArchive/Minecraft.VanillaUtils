@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_block",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/glowstone"
+    }
+  },
+  "result": {
+    "item": "vanillautils:armor/glowstone_boots",
+    "count": 1
+  }
+}

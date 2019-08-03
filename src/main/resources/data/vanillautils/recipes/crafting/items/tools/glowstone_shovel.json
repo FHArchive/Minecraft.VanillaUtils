@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_shovel",
+    "pattern": [
+        "#",
+        "a",
+        "a"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/glowstone"
+        },
+        "a": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vanillautils:tools/glowstone_shovel",
+        "count": 1
+    }
+}

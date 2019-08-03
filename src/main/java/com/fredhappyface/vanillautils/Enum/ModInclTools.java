@@ -20,22 +20,23 @@ import java.util.Locale;
 import java.util.function.Supplier;
 
 public enum ModInclTools {
+
     GRANITE(Items.GRANITE,
             Blocks.GRANITE,
-            new ToolAttrs(6,6.0f, 4, 2000,15.0f, 4.0f, 22),
-            new ArmorAttrs(33, new int[]{3, 6, 8, 3},  2.0F)),
+            new ToolAttrs(1,-2.4F, 1, 131,4.0f, 1.5f, 5),
+            new ArmorAttrs(5, new int[]{1, 2, 3, 1}, 0.0F)),
     DIORITE(Items.DIORITE,
             Blocks.DIORITE,
-            new ToolAttrs(6,6.0f, 4, 2000,15.0f, 4.0f, 22),
-            new ArmorAttrs(33, new int[]{3, 6, 8, 3},  2.0F)),
+            new ToolAttrs(1,-2.4F, 1, 131,4.0f, 1.5f, 5),
+            new ArmorAttrs(5, new int[]{1, 2, 3, 1}, 0.0F)),
     GLOWSTONE(Items.GLOWSTONE,
             Blocks.GLOWSTONE,
-            new ToolAttrs(6,6.0f, 4, 2000,15.0f, 4.0f, 22),
+            new ToolAttrs(5,5.0f, 4, 1000,8.0f, 3.0f, 22),
             new ArmorAttrs(33, new int[]{3, 6, 8, 3},  2.0F)),
     LAPIS_LAZULI(Items.LAPIS_LAZULI,
             Blocks.LAPIS_BLOCK,
-            new ToolAttrs(6,6.0f, 4, 2000,15.0f, 4.0f, 22),
-            new ArmorAttrs(33, new int[]{3, 6, 8, 3},  2.0F));
+            new ToolAttrs(3,4.0f, 3, 800,6.0f, 2.0f, 10),
+            new ArmorAttrs(25, new int[]{2, 4, 6, 2},  1.0F));
 
     // Attrs
     private final ToolAttrs toolAttrs;

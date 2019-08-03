@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "vanillautils:gem_block",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/diorite"
+    }
+  },
+  "result": {
+    "item": "vanillautils:armor/diorite_leggings",
+    "count": 1
+  }
+}

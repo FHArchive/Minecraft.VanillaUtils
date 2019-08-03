@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_shovel",
+    "pattern": [
+        "#",
+        "a",
+        "a"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/lapis_lazuli"
+        },
+        "a": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vanillautils:tools/lapis_lazuli_shovel",
+        "count": 1
+    }
+}

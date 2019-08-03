@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "tag": "forge:gems/ethereal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  }
+}

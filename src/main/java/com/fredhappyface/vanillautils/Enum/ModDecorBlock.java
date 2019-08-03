@@ -1,5 +1,6 @@
 package com.fredhappyface.vanillautils.Enum;
 
+import com.fredhappyface.vanillautils.lib.blocks.ModBlock;
 import com.fredhappyface.vanillautils.lib.blocks.ModStairsBlock;
 import net.minecraft.block.*;
 import net.minecraft.block.material.Material;
@@ -93,7 +94,7 @@ public enum ModDecorBlock {
     // Blocks
 
 
-    private final LazyLoadBase<Block> bricks;
+    private final LazyLoadBase<ModBlock> bricks;
     private final LazyLoadBase<SlabBlock> slab;
     private final LazyLoadBase<StairsBlock> stairs;
     private final LazyLoadBase<SlabBlock> brickSlab;
@@ -113,7 +114,7 @@ public enum ModDecorBlock {
 
 
 
-        bricks = new LazyLoadBase<>(() -> new Block(blockProperties));
+        bricks = new LazyLoadBase<>(() -> new ModBlock(blockProperties));
         slab = new LazyLoadBase<>(() -> new SlabBlock(blockProperties));
         stairs = new LazyLoadBase<>(() -> new ModStairsBlock(getBlock().getDefaultState(),blockProperties));
         brickSlab = new LazyLoadBase<>(() -> new SlabBlock(blockProperties));
@@ -140,7 +141,7 @@ public enum ModDecorBlock {
 
 
 
-    public Block getBricks() {
+    public ModBlock getBricks() {
         return bricks.getValue();
     }
     public SlabBlock getSlab() {

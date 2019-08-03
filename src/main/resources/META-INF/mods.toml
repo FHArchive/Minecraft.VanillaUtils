@@ -23,5 +23,5 @@ logoFile="vanillautils.png" #optional
 authors="FredHappyface" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Alpha 1.14.4. Provides additional tools, armor and decoration blocks based on vanilla blocks. Crafting recipes coming soon! Along with some quality of life features such as simple transmutation and crafting recipes
+Release 1.14.4. Provides additional tools, armor and decoration blocks based on vanilla blocks. Along with some quality of life features such as simple transmutation and crafting recipes
 '''

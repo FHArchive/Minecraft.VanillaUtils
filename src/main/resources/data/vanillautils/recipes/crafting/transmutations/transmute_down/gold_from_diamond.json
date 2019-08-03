@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "tag": "forge:gems/ethereal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "group": "vanillautils:gem_hoe",
+    "pattern": [
+        "##",
+        " a",
+        " a"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:gems/diorite"
+        },
+        "a": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "vanillautils:tools/diorite_hoe",
+        "count": 1
+    }
+}

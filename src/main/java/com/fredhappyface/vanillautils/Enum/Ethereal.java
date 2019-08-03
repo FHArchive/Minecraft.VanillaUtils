@@ -1,6 +1,7 @@
 package com.fredhappyface.vanillautils.Enum;
 
 import com.fredhappyface.vanillautils.CreativeTabGroups;
+import com.fredhappyface.vanillautils.lib.blocks.ModBlock;
 import com.fredhappyface.vanillautils.lib.blocks.ModOreBlock;
 import com.fredhappyface.vanillautils.lib.data.OreGenAttrs;
 import net.minecraft.block.Block;
@@ -27,7 +28,7 @@ public enum Ethereal {
 
 
 
-    private final LazyLoadBase<Block> storageBlock;
+    private final LazyLoadBase<ModBlock> storageBlock;
 
 
     Ethereal(final OreGenAttrs oreGenAttrs) {
@@ -46,7 +47,7 @@ public enum Ethereal {
 
 
 
-        storageBlock = new LazyLoadBase<>(() -> new Block(gemBlockProperties));
+        storageBlock = new LazyLoadBase<>(() -> new ModBlock(gemBlockProperties));
 
     }
 
@@ -74,7 +75,7 @@ public enum Ethereal {
     // Blocks
 
 
-    public Block getStorageBlock() {
+    public ModBlock getStorageBlock() {
         return storageBlock.getValue();
     }
 

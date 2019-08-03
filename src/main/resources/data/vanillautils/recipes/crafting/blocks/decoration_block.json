@@ -8,14 +8,14 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:sticks"
+      "item": "minecraft:stick"
     },
     "a": {
       "item": "minecraft:cobblestone"
     }
   },
   "result": {
-    "item": "vanillautils:decorations/charcoal_bars",
-    "count": 16
+    "item": "vanillautils:decoration_block",
+    "count": 4
   }
 }
