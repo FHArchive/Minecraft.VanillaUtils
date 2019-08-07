@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:cobblestone" }
+  ],
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 1
+  }
+}

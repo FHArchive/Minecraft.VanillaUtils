@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:birch_sapling" }
+  ],
+  "result": {
+    "item": "minecraft:spruce_sapling",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:diorite" }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

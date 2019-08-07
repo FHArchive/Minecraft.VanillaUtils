@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:cactus" }
+  ],
+  "result": {
+    "item": "minecraft:sugar_cane",
+    "count": 1
+  }
+}

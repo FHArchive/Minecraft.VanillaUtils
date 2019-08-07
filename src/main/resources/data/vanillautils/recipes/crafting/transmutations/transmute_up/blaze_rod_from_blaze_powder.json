@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:blaze_powder" }, { "item": "minecraft:blaze_powder" }
+  ],
+  "result": {
+    "item": "minecraft:blaze_rod",
+    "count": 1
+  }
+}

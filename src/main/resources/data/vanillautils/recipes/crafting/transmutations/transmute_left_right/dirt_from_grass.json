@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:grass_block" }
+  ],
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 1
+  }
+}

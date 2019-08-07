@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:pumpkin" }
+  ],
+  "result": {
+    "item": "minecraft:melon",
+    "count": 1
+  }
+}

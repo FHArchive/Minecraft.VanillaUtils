@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "vanillautils:transmutations",
+  "ingredients": [
+    { "item": "vanillautils:ethereal" }, { "item": "minecraft:sand" }, { "item": "minecraft:sand" }
+  ],
+  "result": {
+    "item": "minecraft:clay",
+    "count": 1
+  }
+}
