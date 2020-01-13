@@ -1,12 +1,12 @@
 <p float="left">
-<img src="https://img.shields.io/github/languages/top/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Github top language">
-<img src="https://img.shields.io/codacy/grade/1c2a862ec94b41dca017b78d901e8d2a.svg?style=flat-square" alt="Codacy grade">
-<img src="https://img.shields.io/codacy/coverage/1c2a862ec94b41dca017b78d901e8d2a.svg?style=flat-square" alt="Codacy coverage">
-<img src="https://img.shields.io/github/repo-size/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Repository size">
-<img src="https://img.shields.io/github/issues/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Issues">
-<img src="https://img.shields.io/github/license/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="License">
-<img src="https://img.shields.io/github/commit-activity/m/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Commit activity">
-<img src="https://img.shields.io/github/last-commit/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Last commit">
+<a href="../../"><img src="https://img.shields.io/github/languages/top/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Github top language"></a>
+<a href="https://www.codacy.com/manual/FredHappyface/Minecraft.VanillaUtils"><img src="https://img.shields.io/codacy/grade/1c2a862ec94b41dca017b78d901e8d2a.svg?style=flat-square" alt="Codacy grade"></a>
+<a href="https://www.codacy.com/manual/FredHappyface/Minecraft.VanillaUtils"><img src="https://img.shields.io/codacy/coverage/1c2a862ec94b41dca017b78d901e8d2a.svg?style=flat-square" alt="Codacy coverage"></a>
+<a href="../../"><img src="https://img.shields.io/github/repo-size/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Repository size"></a>
+<a href="../../issues"><img src="https://img.shields.io/github/issues/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Issues"></a>
+<a href="/LICENSE.md"><img src="https://img.shields.io/github/license/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="License"></a>
+<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Commit activity"></a>
+<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/fredhappyface/Minecraft.VanillaUtils.svg?style=flat-square" alt="Last commit"></a>
 </p>
 
 # Minecraft.VanillaUtils
